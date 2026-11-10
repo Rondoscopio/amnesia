@@ -62,6 +62,10 @@ O acervo pode incluir textos, fotos, mapas, anúncios, gravações, sinais e doc
 - Não considerar uma identificação automatizada de pessoa, marca, voz ou entidade como fato confirmado sem verificação adequada.
 - Adotar salvaguardas proporcionais para biometria, dados pessoais, informações sensíveis e riscos de identificação incorreta.
 
+## Registro de eventos e organização de mídias
+
+As capturas podem ser associadas a eventos com pautas, locais, convidados, presença documentada, patrocinadores e fontes individualizadas. O acervo fotográfico poderá ser organizado por eventos, anotações e elementos visuais. A identificação de pessoas exige verificação, e o uso de modelos biométricos deverá passar por avaliação legal e de riscos antes de qualquer implementação. Consulte [Cadastro de eventos e organização do acervo fotográfico](eventos-e-acervo-fotografico.md).
+
 ## Verificação independente e preservação responsável
 
 Capturas feitas por operadores ou ambientes independentes podem auxiliar na corroboração, desde que sua origem, método e horários sejam registrados. Várias observações concordantes não eliminam, por si só, hipóteses alternativas, erro compartilhado ou manipulação na fonte.
