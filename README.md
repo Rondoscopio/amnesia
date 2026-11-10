@@ -1,4 +1,4 @@
-![Rondoscópio, Amnésia](assets/banner.webp)
+![Rondoscópio, Amnésia](amnesia-banner.webp)
 
 # Amnésia
 
