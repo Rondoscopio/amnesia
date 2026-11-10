@@ -1,20 +1,20 @@
-![Rondoscópio, Observador](assets/banner.webp)
+![Rondoscópio, Amnésia](assets/banner.webp)
 
-# Observador
+# Amnésia
 
 [![Projeto](https://img.shields.io/badge/Projeto-Rondosc%C3%B3pio-2563eb?style=for-the-badge&labelColor=0b1120)](https://github.com/Rondoscopio)
 [![Licença](https://img.shields.io/badge/Licen%C3%A7a-AGPL--3.0--or--later-2563eb?style=for-the-badge&labelColor=0b1120&logo=gnu&logoColor=white)](LICENSE)
 
-[![Último Commit](https://img.shields.io/github/last-commit/Rondoscopio/observador/main?label=%C3%9Altimo%20Commit&style=flat-square&labelColor=0b1120&color=b45309&logo=git&logoColor=white)](https://github.com/Rondoscopio/observador/commits/main)
-[![Commits por Mês](https://img.shields.io/github/commit-activity/m/Rondoscopio/observador?label=Commits%20por%20M%C3%AAs&style=flat-square&labelColor=0b1120&color=b45309&logo=git&logoColor=white)](https://github.com/Rondoscopio/observador/graphs/commit-activity)
-[![PRs Abertas](https://img.shields.io/github/issues-pr/Rondoscopio/observador?label=PRs%20Abertas&style=flat-square&labelColor=0b1120&color=b45309&logo=github&logoColor=white)](https://github.com/Rondoscopio/observador/pulls)
-[![Issues Abertas](https://img.shields.io/github/issues/Rondoscopio/observador?label=Issues%20Abertas&style=flat-square&labelColor=0b1120&color=b45309&logo=github&logoColor=white)](https://github.com/Rondoscopio/observador/issues)
-[![Forks](https://img.shields.io/github/forks/Rondoscopio/observador?label=Forks&style=flat-square&labelColor=0b1120&color=b45309&logo=github&logoColor=white)](https://github.com/Rondoscopio/observador/forks)
+[![Último Commit](https://img.shields.io/github/last-commit/Rondoscopio/amnesia/main?label=%C3%9Altimo%20Commit&style=flat-square&labelColor=0b1120&color=b45309&logo=git&logoColor=white)](https://github.com/Rondoscopio/amnesia/commits/main)
+[![Commits por Mês](https://img.shields.io/github/commit-activity/m/Rondoscopio/amnesia?label=Commits%20por%20M%C3%AAs&style=flat-square&labelColor=0b1120&color=b45309&logo=git&logoColor=white)](https://github.com/Rondoscopio/amnesia/graphs/commit-activity)
+[![PRs Abertas](https://img.shields.io/github/issues-pr/Rondoscopio/amnesia?label=PRs%20Abertas&style=flat-square&labelColor=0b1120&color=b45309&logo=github&logoColor=white)](https://github.com/Rondoscopio/amnesia/pulls)
+[![Issues Abertas](https://img.shields.io/github/issues/Rondoscopio/amnesia?label=Issues%20Abertas&style=flat-square&labelColor=0b1120&color=b45309&logo=github&logoColor=white)](https://github.com/Rondoscopio/amnesia/issues)
+[![Forks](https://img.shields.io/github/forks/Rondoscopio/amnesia?label=Forks&style=flat-square&labelColor=0b1120&color=b45309&logo=github&logoColor=white)](https://github.com/Rondoscopio/amnesia/forks)
 [![Feito no 🇧🇷 Brasil](https://img.shields.io/badge/Feito%20no-%F0%9F%87%A7%F0%9F%87%B7%20Brasil-009440?style=flat-square&labelColor=0b1120)](https://pt.wikipedia.org/wiki/Brasil)
 
-Projeto do **Rondoscópio** no repositório **Rondoscopio/observador**.
+Projeto do **Rondoscópio** no repositório **Rondoscopio/amnesia**.
 
-O Observador pretende coletar, catalogar e preservar documentos, atas, publicações e outros registros de interesse público. Cada coleta deverá guardar a fonte, as datas disponíveis, o momento da captura e informações para verificar sua integridade.
+A Amnésia é o sistema de coleta e monitoramento multimodal do Rondoscópio, proposto para acompanhar fontes públicas, captar textos, áudios, vídeos e dados estruturados, catalogar e preservar documentos, atas, publicações e outros registros de interesse público. Cada coleta deverá guardar a fonte, as datas disponíveis, o momento da captura e informações para verificar sua integridade.
 
 ## Acervo e acesso
 
