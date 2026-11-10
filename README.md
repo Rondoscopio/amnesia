@@ -22,6 +22,12 @@ O armazenamento será criptografado, inclusive para registros públicos. A arqui
 
 A prioridade é preservar o histórico e restringir o acesso quando necessário, em vez de excluir registros por conveniência. Evidências de possíveis ilícitos receberão tratamento restrito quando cabível. A retenção e a divulgação considerarão o interesse público, a proteção de dados e as obrigações legais. O exercício de função pública amplia o escrutínio dos atos oficiais, sem eliminar a privacidade individual.
 
+## Diretrizes de captura e memória documental
+
+A Amnésia deverá preservar o material original e seus metadados de proveniência, inclusive detalhes da conexão HTTP e TLS, certificados do servidor e registros de integridade, quando tecnicamente disponíveis. Capturas e derivados multimodais deverão permanecer rastreáveis e separados das interpretações investigativas. O valor histórico de um registro pode surgir muitos anos depois de sua coleta.
+
+As propostas e os limites probatórios estão detalhados em [Captura, proveniência e preservação de evidências](docs/captura-proveniencia-e-preservacao.md). A interpretação temporal e a investigação das relações cabem ao [Córtex](https://github.com/Rondoscopio/cortex/blob/main/docs/analise-temporal-e-interpretacao.md).
+
 Projeto em planejamento.
 
 ## License
