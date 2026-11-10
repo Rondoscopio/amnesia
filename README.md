@@ -16,6 +16,12 @@ Projeto do **Rondoscópio** no repositório **Rondoscopio/amnesia**.
 
 A Amnésia é o sistema de coleta e monitoramento multimodal do Rondoscópio, proposto para acompanhar fontes públicas, captar textos, áudios, vídeos e dados estruturados, catalogar e preservar documentos, atas, publicações e outros registros de interesse público. Cada coleta deverá guardar a fonte, as datas disponíveis, o momento da captura e informações para verificar sua integridade.
 
+## Cadastro de eventos e acervo fotográfico
+
+A Amnésia deverá permitir cadastrar eventos, pautas, locais, convidados, participantes, organizações e patrocinadores, associando essas informações a fontes e registros preservados. Convite, presença anunciada e participação documentada serão situações distintas. Fotografias e vídeos poderão receber anotações de pessoas, objetos, textos e logotipos, com organização por evento, período e procedência.
+
+A detecção e o agrupamento de rostos serão avaliados separadamente da identificação nominal. Qualquer tratamento biométrico dependerá de avaliação jurídica e de proteção de dados, com acesso restrito e revisão humana. Veja os [requisitos para eventos e acervo fotográfico](docs/eventos-e-acervo-fotografico.md).
+
 ## Acervo e acesso
 
 O armazenamento será criptografado, inclusive para registros públicos. A arquitetura proposta prevê criptografia autenticada, chaves individuais por registro, proteção das chaves por encapsulamento e possibilidade de rotação. O acesso terá três níveis: público, privado e confidencial. O nível confidencial exigirá autorização específica e liberação por dispositivo criptográfico físico, além do login.
